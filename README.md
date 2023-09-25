@@ -50,4 +50,4 @@ The first appearance of the term "bug trap" in Edison's notebooks is in connecti
 
 The following year he used this term in connection with his telephone experiments. In one case humorously calling it a "Boog Troup."
 
-.ve-media https://edisondigital.rutgers.edu/iiif/NS7704ZAQ seq=4
+.ve-media https://edisondigital.rutgers.edu/iiif/NS7704ZAQ left seq=4
