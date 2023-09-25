@@ -44,10 +44,10 @@ It is likely that Edison had been using the term “bug” for several years. Al
 
 The bug trap illustrates one of Edison's key inventive strategies. When he could not eliminate the cause of a problem, he sought an arrangement that rendered the effects insignificant. Edison had earlier used this approach while developing improved printing telegraphs where he placed the printing and typewheel magnets in series, with one being made insensitive to the weaker currents that activated the other (see *TAEB* 1:161, 292). He also used it in an automatic telegraph caveat where an unavoidable current between two receiving pens was made negligible by increasing the separation between the recording pens (Edison Caveat 43).
 
-## The "Bug Trap"
-
-.ve-media https://edisondigital.rutgers.edu/iiif/NS7704ZAQ right width=60%
+### The "Bug Trap"
 
 The first appearance of the term "bug trap" in Edison's notebooks is in connection with his efforts in May 1877 to develop a sextuplex telegraph for transmitting six messages simultaneously, three in each direction. 
 
 The following year he used this term in connection with his telephone experiments. In one case humorously calling it a "Boog Troup."
+
+.ve-media https://edisondigital.rutgers.edu/iiif/NS7704ZAQ right width=60%
