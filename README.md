@@ -2,7 +2,7 @@
 
 # Edison and the "Bug"
 
-## First Reference 
+## Describing the "Bug"
 
 .ve-media https://edisondigital.rutgers.edu/iiif/LB003487 right width=60%
 
@@ -10,7 +10,7 @@ Did you know that Edison invented the use of the term "bug" to refer to a techni
 
 > It has been just so in all of my inventions. The first step is an intuition and comes in a burst— Then difficulties arise. This thing gives out then that. "Bugs" as such little faults and difficulties are called, show themselves— Months of intense watching, study and labor are required before commercial success—or failure—is certainly reached.
 
-## Other References
+## A Humorous Reference
 
 .ve-media https://edisondigital.rutgers.edu/iiif/x099at right width=60%
 
