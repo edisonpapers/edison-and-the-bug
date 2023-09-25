@@ -18,6 +18,11 @@ That same year there are other references in Edison's correspondence to this use
 
 > You were partly correct, I did find a "bug" in my apparatus, but it was not in the telephone proper It was of the genus "callbellum" The insect appears to find conditions for its existence in all call apparatus of Telephones.
 
+.ve-media https://edisondigital.rutgers.edu/iiif/z005ay left width=60%
+
+.ve-media https://edisondigital.rutgers.edu/iiif/nv10085 right width=60%
+
+
 And writing to William Preece about his telephone on 19 May 1878 Edison noted, "If the static charge is the bug I will go for a compensation."
 
 It is not entirely clear when Edison began to use this term but it first appears in a notebook entry of 27–28 July 1876 in connection with experiments on his acoustic transfer telegraph, which used time-sharing to transmit multiple messages over a wire. 
