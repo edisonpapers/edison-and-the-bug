@@ -14,9 +14,9 @@ And writing to William Preece about his telephone on 19 May 1878 Edison noted, "
 
 It is not entirely clear when Edison began to use this term but it first appears in a notebook entry of 27–28 July 1876 in connection with experiments on his acoustic transfer telegraph, which used time-sharing to transmit multiple messages over a wire. 
 
-Exhibit C is the wire on short ckt the ground wire having been inserted on the multiple forks at both ends thus
-
-Exhibit D shews same with Phila on= These shew where the mysterious bug was: the device for "Earthing" the wire on the low forks was a failure while that on the multiple is a success= Now this explains why all my rinkles failed
+> Exhibit C is the wire on short ckt the ground wire having been inserted on the multiple forks at both ends thus
+> 
+> Exhibit D shews same with Phila on= These shew where the mysterious bug was: the device for "Earthing" the wire on the low forks was a failure while that on the multiple is a success= Now this explains why all my rinkles failed
 
 A number of notebook entries from the period 1876-78 include Edison's use of this term to refer to a variety of technical problems.
 
