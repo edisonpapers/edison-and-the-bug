@@ -4,7 +4,7 @@
 
 ## First Reference 
 
-.ve-media https://edisondigital.rutgers.edu/iiif/LB003487 right width=80%
+.ve-media https://edisondigital.rutgers.edu/iiif/LB003487 right width=60%
 
 Did you know that Edison invented the use of the term "bug" to refer to a technical problem? While it is possible that this term for a technical glitch predates Edison's use of it in the mid-1870s, no earlier references to this usage have thus far been found. Edison nicely described his use of the term in a letter of 13 November 1878 to Theodore Puskas, his agent in France:
 
@@ -12,7 +12,7 @@ Did you know that Edison invented the use of the term "bug" to refer to a techni
 
 ## Other References
 
-.ve-media https://edisondigital.rutgers.edu/iiif/x099at right width=80%
+.ve-media https://edisondigital.rutgers.edu/iiif/x099at right width=60%
 
 That same year there are other references in Edison's correspondence to this use of the term bug. In a 13 March 1878 letter to Western Union President William Orton Edison humorously described a bug in his telephone apparatus:
 
