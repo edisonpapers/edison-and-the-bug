@@ -20,7 +20,7 @@ That same year there are other references in Edison's correspondence to this use
 
 .ve-media https://edisondigital.rutgers.edu/iiif/z005ay left width=60%
 
-.ve-media https://edisondigital.rutgers.edu/iiif/nv10085 right width=60%
+.ve-media https://edisondigital.rutgers.edu/iiif/nv10085 right width=60% seq=2
 
 And writing to William Preece about his telephone on 19 May 1878 Edison noted, "If the static charge is the bug I will go for a compensation."
 
