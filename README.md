@@ -18,6 +18,8 @@ That same year there are other references in Edison's correspondence to this use
 
 > You were partly correct, I did find a "bug" in my apparatus, but it was not in the telephone proper It was of the genus "callbellum" The insect appears to find conditions for its existence in all call apparatus of Telephones.
 
+## Other References
+
 .ve-media https://edisondigital.rutgers.edu/iiif/z005ay left width=60%
 
 .ve-media https://edisondigital.rutgers.edu/iiif/nv10085 right width=60% seq=2
