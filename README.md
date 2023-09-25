@@ -1,3 +1,7 @@
+.ve-header "Edison and the Use of the Bug" default:https%3A//edison.rutgers.edu/images/sci-fi/sci-fi-wizard03.jpeg "A Digital Essay" pct:3,23,80,20 center sticky
+
+This exhibit is a collaboration between ==Edison Papers=={Q107417971} Director Paul Israel, intern Brianna Leider from the Rutgers Public History Certificate program, and Nicole Wines, who helps the project develop its digital and public humanities outreach.
+
 # edison-and-the-bug
 
 Did you know that Edison invented the use of the term "bug" to refer to a technical problem? While it is possible that this term for a technical glitch predates Edison's use of it in the mid-1870s, no earlier references to this usage have thus far been found. Edison nicely described his use of the term in a letter of 13 November 1878 to Theodore Puskas, his agent in France:
