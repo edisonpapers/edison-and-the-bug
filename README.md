@@ -1,8 +1,6 @@
-.ve-header "Edison and the Use of the Bug" default:https%3A//edison.rutgers.edu/images/sci-fi/sci-fi-wizard03.jpeg "A Digital Essay" pct:3,23,80,20 center sticky
+.ve-header "Edison and the Term 'Bug'" default:https%3A//edison.rutgers.edu/images/sci-fi/sci-fi-wizard03.jpeg "A Digital Essay" pct:3,23,80,20 center sticky
 
-# Edison and the "Bug"
-
-## Describing the "Bug"
+# Describing the "Bug"
 
 .ve-media https://edisondigital.rutgers.edu/iiif/LB003487 right width=60%
 
@@ -10,7 +8,7 @@ Did you know that Edison invented the use of the term "bug" to refer to a techni
 
 > It has been just so in all of my inventions. The first step is an intuition and comes in a burst— Then difficulties arise. This thing gives out then that. "Bugs" as such little faults and difficulties are called, show themselves— Months of intense watching, study and labor are required before commercial success—or failure—is certainly reached.
 
-## A Humorous Reference
+# A Humorous Reference
 
 .ve-media https://edisondigital.rutgers.edu/iiif/x099at right width=60%
 
@@ -18,7 +16,7 @@ That same year there are other references in Edison's correspondence to this use
 
 > You were partly correct, I did find a "bug" in my apparatus, but it was not in the telephone proper It was of the genus "callbellum" The insect appears to find conditions for its existence in all call apparatus of Telephones.
 
-## Other References
+# Other References
 
 And writing to William Preece about his telephone on 19 May 1878 Edison noted, "If the static charge is the bug I will go for a compensation."
 
