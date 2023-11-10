@@ -6,8 +6,7 @@
 
 Did you know that Edison invented the use of the term "bug" to refer to a technical problem? While it is possible that this term for a technical glitch predates Edison's use of it in the mid-1870s, no earlier references to this usage have thus far been found. Edison nicely described his use of the term in a letter of 13 November 1878 to Theodore Puskas, his agent in France:
 
-.ve-media https://edisondigital.rutgers.edu/iiif/2/LB003487/manifest
-> It has been just so in all of my inventions. The first step is an intuition and comes in a burst— Then difficulties arise. This thing gives out then that. =="Bugs"=={164,1,392,252} as such little faults and difficulties are called, show themselves— Months of intense watching, study and labor are required before commercial success—or failure—is certainly reached.
+> It has been just so in all of my inventions. The first step is an intuition and comes in a burst— Then difficulties arise. This thing gives out then that. =="Bugs"=={263,343,91,115} as such little faults and difficulties are called, show themselves— Months of intense watching, study and labor are required before commercial success—or failure—is certainly reached.
 
 # A Humorous Reference
 
