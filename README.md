@@ -5,6 +5,8 @@
 Did you know that Edison likely invented the use of the term "bug" to refer to a technical problem? The earliest documented use for the term as a technical glitch was when the journal *Operator* was started in 1874, Edison was the science editor of the journal and contributed significant articles and notes for its pages. He continued to that in 1875 after leaving the position of editor so this notice from ==1875=={description="According to the Oxford English Dictionary the first use is from the Operator of 14 August 1875: "The biggest ‘bug’ yet has been discovered in the U.S. Hotel Electric Annunciator".
 Operator 15 August 5/1"} is likely to have come from Edison himself.
 
+==new combination=={description="Francis Galton pioneered composite photography, the technique of superimposing portrait photographs of individuals in order to draw out common physical traits (cf. Doc. 2852). Galton thought these common features might be markers of hereditary psychological traits or susceptibility to certain diseases. He therefore began making composite portraits of criminals and later made them of people suffering from various physical and mental illnesses. Galton published works on the making and interpretation of these portraits in 1878 and 1879."}
+
 Edison nicely described his use of the term in a letter of 13 November 1878 to Theodore Puskas, his agent in France:
 
 .ve-media https://edisondigital.rutgers.edu/iiif/2/LB003487/manifest right width=60% seq=4
