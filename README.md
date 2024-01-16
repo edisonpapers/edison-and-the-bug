@@ -16,7 +16,7 @@ In a 10 May 1877 note Edison first uses the term bug trap for devices designed t
 
 .ve-media https://edisondigital.rutgers.edu/iiif/2/LB003487/manifest right width=60% seq=4
 
-During 1878 Edison periodically referred to the problem of bugs in his correspondence about his work on telegraphs and telephones. Edison nicely described his use of the term in a letter of 13 November 1878 to Theodore Puskas, his agent in France:
+During 1878 Edison periodically referred to the problem of bugs in his correspondence about his work on telegraphs and telephones. But it was in a letter of 13 November 1878 about his work on electric lighting that Edison provided the best description of his use of bug to describe technical problem:
 
 > It has been just so in all of my inventions. The first step is an intuition and comes in a burst— Then difficulties arise. This thing gives out then that. =="Bugs"=={263,343,91,115} as such little faults and difficulties are called, show themselves— Months of intense watching, study and labor are required before commercial success—or failure—is certainly reached.
 
