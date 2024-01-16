@@ -14,9 +14,10 @@ The term also appears in other Edison notes from August and September 1876. In a
 
 # Edison's Definition of a Bug
 
+.ve-media https://edisondigital.rutgers.edu/iiif/2/LB003487/manifest right width=60% seq=4
+
 Edison nicely described his use of the term in a letter of 13 November 1878 to Theodore Puskas, his agent in France:
 
-.ve-media https://edisondigital.rutgers.edu/iiif/2/LB003487/manifest right width=60% seq=4
 > It has been just so in all of my inventions. The first step is an intuition and comes in a burst— Then difficulties arise. This thing gives out then that. =="Bugs"=={263,343,91,115} as such little faults and difficulties are called, show themselves— Months of intense watching, study and labor are required before commercial success—or failure—is certainly reached.
 
 # A Humorous Reference
