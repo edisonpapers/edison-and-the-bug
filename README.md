@@ -53,8 +53,8 @@ The bug trap illustrates one of Edison's key inventive strategies. When he could
 
 # The "Bug Trap"
 
+.ve-media https://edisondigital.rutgers.edu/iiif/NS7704ZAQ right width=60% seq=3 
+
 The first appearance of the term "bug trap" in Edison's notebooks is in connection with his efforts in May 1877 to develop a sextuplex telegraph for transmitting six messages simultaneously, three in each direction. 
 
 The following year he used this term in connection with his telephone experiments. In one case humorously calling it a "Boog Troup."
-
-.ve-media https://edisondigital.rutgers.edu/iiif/NS7704ZAQ left seq=3 
