@@ -4,7 +4,7 @@
 
 Did you know that Edison likely invented the use of the term "bug" to refer to a technical problem? The earliest documented use for the term as a technical glitch was when the journal *Operator* was started in 1874, Edison was the science editor of the journal and contributed significant articles and notes for its pages. He continued to that in 1875 after leaving the position of editor so this notice from 1875 is likely to have come from Edison himself.
 
-==1875=={description="According to the Oxford English Dictionary the first use is from the Operator of 14 August 1875: 'The biggest ‘bug’ yet has been discovered in the U.S. Hotel Electric Annunciator'.
+==1875=={description="According to the Oxford English Dictionary the first use is from the Operator of 14 August 1875: ‘The biggest ‘bug’ yet has been discovered in the U.S. Hotel Electric Annunciator‘.
 Operator 15 August 5/1"}
 
 Edison nicely described his use of the term in a letter of 13 November 1878 to Theodore Puskas, his agent in France:
