@@ -8,7 +8,6 @@ No other published references have been found from this period until. The next d
 
 > Exhibit D shews same with Phila on= These shew where the mysterious bug was: the device for "Earthing" the wire on the low forks was a failure while that on the multiple is a success= Now this explains why all my rinkles failed
 
-
 .ve-media https://edisondigital.rutgers.edu/iiif/nv10085 right width=60% seq=2
 
 Edison nicely described his use of the term in a letter of 13 November 1878 to Theodore Puskas, his agent in France:
