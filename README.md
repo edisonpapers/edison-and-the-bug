@@ -58,8 +58,4 @@ Other bugs appeared when Edison's new elecrical system was exhibited in Paris an
 
 > The Belts are liable to slip so you want to look out that all your belts are tight as this is a bad bug when running the machines in multiple arc as if some of the belts are loose the other machines will do all the work and it will be like putting 100 lights on a machine.
 
-Soon after the Pearl Street Station opened in September 1882, Edison had to redesign the coupling for his Jumbo dynamos so that the steam engines that ran them worked together. In his report to Charles Batchelor who was managing the Edison lighting business in Paris, Samuel Insull reported, "Now this bug has been eradicated it would appear that the central station machines will work perfectly."
-
-
-
-This became more prevalent in referring to problems that emerged as Edison sought to introduce his system commercially. 
+Problems also arose at the Pearl Street Station. Soon after it opened in September 1882, Edison had to redesign the coupling for his Jumbo dynamos so that the steam engines that ran them worked together. In his report to Charles Batchelor who was managing the Edison lighting business in Paris, Samuel Insull reported, "Now this bug has been eradicated it would appear that the central station machines will work perfectly."
