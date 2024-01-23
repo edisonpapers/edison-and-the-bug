@@ -20,7 +20,9 @@ In a 10 May 1877 note Edison first used the term bug trap for devices designed t
 
 .ve-media https://edisondigital.rutgers.edu/iiif/NV18015 right width=60%
 
-The following year Edison began using this term in connection with his telephone experiments. In one case humorously calling it a "Boog Troup." 
+The following year Edison began using this term in connection with his telephone experiments. 
+
+In one case humorously calling it a "Boog Troup." 
 
 # Edison's Definition of a Bug
 
