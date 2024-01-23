@@ -12,6 +12,8 @@ No other published references have been found from this period until. The next d
 
 # Edison's "Bug Trap"
 
+.ve-media https://edisondigital.rutgers.edu/iiif/ns7704zaq right width=60%
+
 In a 10 May 1877 note Edison first used the term bug trap for devices designed to prevent current reversals in his quadruplex telegraph and other multiple telegraph designs. However, the earliest version of such a device can be found in a patent caveat from early August 1873. The "bug trap" illustrates one of Edison's key inventive strategies. When he could not eliminate the cause of a problem, he sought an arrangement that rendered the effects insignificant.
 
 # Edison's Definition of a Bug
