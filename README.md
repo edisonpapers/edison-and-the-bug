@@ -68,3 +68,5 @@ In his 1889 *Dictionary of Electrical Words, Terms and Phrases*, Edwin Houston d
 
 > Bug. A term originally limited to quadruplex telegraphy to designate any fault in the operation of the apparatus. This term is not employed, to a limited extent, for faults in the operation of electric apparatus in general.
 > Bug-Trap. Any device employed to overcome the "bug" in quadruplex telegraphy.
+
+Then in 1892, 
