@@ -27,7 +27,9 @@ The following year Edison began using this term in connection with his telephone
 
 # "Boog Troup"
 
-.ve-media https://edisondigital.rutgers.edu/iiif/NV18015 right width=60%
+.ve-media https://edisondigital.rutgers.edu/iiif/NV18015 right width=60% seq=2
+
+Edison's telephone receiver proved especially susceptible to bugs. 
 
 In one case humorously calling it a "Boog Troup." 
 
