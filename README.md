@@ -25,6 +25,8 @@ The following year Edison began using this term in connection with his telephone
 > You were partly correct, I did find a "bug" in my apparatus, but it was not in the telephone proper It was of the genus "callbellum" The insect appears to find conditions for its existence in all call apparatus of Telephones.
 >
 
+And writing to William Preece about his telephone on 19 May 1878 Edison noted, "If the static charge is the bug I will go for a compensation."
+
 # "Boog Troup"
 
 .ve-media https://edisondigital.rutgers.edu/iiif/NV18015 right width=60% seq=2 height=300px fit=cover
