@@ -33,11 +33,9 @@ And writing to William Preece about his telephone on 19 May 1878 Edison noted, "
 
 Edison's telephone receiver proved especially susceptible to bugs. As with his quadruplex Edison designed bugs traps or as he described it in one case, a "Boog Troup." 
 
-In the fall of 1878, his nephew Charlie Edison became the primary experimenter on the receiver and in one of his note. Exasperated by the failure of the device to work properly, he drew a "double breasted Bug" and wrote a number of humorous references to bugs. 
+In the fall of 1878, his nephew Charles Edison, became the primary experimenter on the receiver and the first person in the laboratory other than Edison to use the term in a notebook entry. Exasperated by the failure of the device to work properly, he drew a "double breasted Bug" and wrote a number of humorous references to bugs.
 
 > NICOLE TO ADJUST ZOOM TO 180,1,396,347 and styling to full width for media image
-
-.ve-media https://edisondigital.rutgers.edu/iiif/NV18091 right width=60% height=300px 
 
 
 # Edison's Definition of a Bug
