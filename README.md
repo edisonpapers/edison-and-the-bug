@@ -38,6 +38,9 @@ In the fall of 1878, his nephew Charles Edison, became the primary experimenter 
 > NICOLE TO ADJUST ZOOM TO 180,1,396,347 and styling to full width for media image
 
 
+.ve-media https://edisondigital.rutgers.edu/iiif/NV18091 width=60% height=200px 
+
+
 # Edison's Definition of a Bug
 
 .ve-media https://edisondigital.rutgers.edu/iiif/2/LB003487/manifest right width=60% seq=4
