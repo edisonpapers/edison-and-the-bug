@@ -67,6 +67,7 @@ Articles about Edisons quadruplex discussed his bug trap by the late 1870's. By 
 In his 1889 *Dictionary of Electrical Words, Terms and Phrases*, Edwin Houston defined both bug and bug-trap:
 
 > Bug. A term originally limited to quadruplex telegraphy to designate any fault in the operation of the apparatus. This term is not employed, to a limited extent, for faults in the operation of electric apparatus in general.
-Bug-Trap. Any device employed to overcome the "bug" in quadruplex telegraphy.
+
+> Bug-Trap. Any device employed to overcome the "bug" in quadruplex telegraphy.
 
 Then in his 1892, 
