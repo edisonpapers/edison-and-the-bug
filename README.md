@@ -31,9 +31,7 @@ And writing to William Preece about his telephone on 19 May 1878 Edison noted, "
 
 .ve-media https://edisondigital.rutgers.edu/iiif/NV18015 right width=60% seq=2 height=300px fit=cover
 
-Edison's telephone receiver proved especially susceptible to bugs. 
-
-In one case humorously calling it a "Boog Troup." 
+Edison's telephone receiver proved especially susceptible to bugs. As with his quadruplex Edison designed bugs traps or as he described it in one case, a "Boog Troup." He became sufficiently exasperated that he even drew
 
 # Edison's Definition of a Bug
 
