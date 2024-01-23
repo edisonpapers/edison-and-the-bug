@@ -27,7 +27,7 @@ The following year Edison began using this term in connection with his telephone
 
 And writing to William Preece about his telephone on 19 May 1878 Edison noted, "If the static charge is the bug I will go for a compensation."
 
-# "Boog Troup"
+# Bugs in the Receiver
 
 .ve-media https://edisondigital.rutgers.edu/iiif/NV18015 right width=60% seq=2 height=300px fit=cover
 
