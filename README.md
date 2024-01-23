@@ -37,7 +37,7 @@ In the fall of 1878, his nephew Charles Edison, became the primary experimenter 
 
 > NICOLE TO ADJUST ZOOM TO 180,1,396,347 and styling to full width for media image below
 
-.ve-media https://edisondigital.rutgers.edu/iiif/NV18091 width=60% height=200px 
+.ve-media https://edisondigital.rutgers.edu/iiif/NV18091 height=200px 
 
 
 # Edison's Definition of a Bug
@@ -50,7 +50,5 @@ In the fall of 1878, Edison began working on electric lighting and in a letter o
 
 # The Term Spreads
 
-Some of Edison’s associates began to adopt the term as well.
-
-In a 3 November 1878 letter to Edison, his friend George Barker, a professor at the University of Pennsylvania, complained about Edison’s delay in providing him with one of his new lamps for a lecture, asking Edison, “Have you found a "bug" in the light, which is the reason why you don’t want me to show it?”
+Some of Edison’s associates began to adopt the term as well. In a 3 November 1878 letter to Edison, his friend George Barker, a professor at the University of Pennsylvania, complained about Edison’s delay in providing him with one of his new lamps for a lecture, asking Edison, “Have you found a "bug" in the light, which is the reason why you don’t want me to show it?”
 
