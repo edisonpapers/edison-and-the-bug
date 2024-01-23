@@ -23,7 +23,9 @@ In a 10 May 1877 note Edison first used the term bug trap for devices designed t
 The following year Edison began using this term in connection with his telephone experiments. In a 13 March 1878 letter to Western Union President William Orton Edison wrote:
 
 > You were partly correct, I did find a "bug" in my apparatus, but it was not in the telephone proper It was of the genus "callbellum" The insect appears to find conditions for its existence in all call apparatus of Telephones.
-> 
+>
+
+# "Boog Troup"
 
 .ve-media https://edisondigital.rutgers.edu/iiif/NV18015 right width=60%
 
