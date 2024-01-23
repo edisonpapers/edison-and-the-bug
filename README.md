@@ -47,3 +47,10 @@ In the fall of 1878, his nephew Charles Edison, became the primary experimenter 
 In the fall of 1878, Edison began working on electric lighting and in a letter of 13 November 1878 about this work he provided the best description of his use of bug to describe technical problems:
 
 > It has been just so in all of my inventions. The first step is an intuition and comes in a burst— Then difficulties arise. This thing gives out then that. =="Bugs"=={263,343,91,115} as such little faults and difficulties are called, show themselves— Months of intense watching, study and labor are required before commercial success—or failure—is certainly reached.
+
+# The Term Spreads
+
+Some of Edison’s associates began to adopt the term as well.
+
+In a 3 November 1878 letter to Edison, his friend George Barker, a professor at the University of Pennsylvania, complained about Edison’s delay in providing him with one of his new lamps for a lecture, asking Edison, “Have you found a "bug" in the light, which is the reason why you don’t want me to show it?”
+
