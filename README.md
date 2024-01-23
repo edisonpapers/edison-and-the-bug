@@ -61,3 +61,5 @@ Other bugs appeared when Edison's new elecrical system was exhibited in Paris an
 Problems also arose at the Pearl Street Station. Soon after it opened in September 1882, Edison had to redesign the coupling for his Jumbo dynamos so that the steam engines that ran them worked together. In his report to Charles Batchelor who was managing the Edison lighting business in Paris, Samuel Insull reported, "Now this bug has been eradicated it would appear that the central station machines will work perfectly." As Edison began installing new stations in 1883, bugs also appeared. Writing from the first of these new stations in Sunbury, PA, William Andrews wrote Edison about "a bug in the dynamo connections" and sent Edison a plan of a new way of connecting spare dynamo, asking him "Please look them over and see if you can find a bug in them."
 
 # The Term Becomes Part of Electrical Engineering
+
+Articles about Edisons quadruplex discussed his bug trap by the late 1870's. By 1886, Edison's bug trap began to appear in articles about the quadruplex in elecrical journals. 
