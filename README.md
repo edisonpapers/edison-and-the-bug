@@ -50,5 +50,5 @@ In the fall of 1878, Edison began working on electric lighting and in a letter o
 
 # The Term Spreads
 
-Some of Edison’s associates began to adopt the term as well. In a 3 November 1878 letter to Edison, his friend George Barker, a professor at the University of Pennsylvania, complained about Edison’s delay in providing him with one of his new lamps for a lecture, asking Edison, “Have you found a "bug" in the light, which is the reason why you don’t want me to show it?”
+Some of Edison’s associates began to adopt the term in connection with his work on electric lighting. In a 3 November 1878 letter to Edison, his friend George Barker, a professor at the University of Pennsylvania, complained about Edison’s delay in providing him with one of his new lamps for a lecture, asking Edison, “Have you found a "bug" in the light, which is the reason why you don’t want me to show it?”
 
