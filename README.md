@@ -63,3 +63,8 @@ Problems also arose at the Pearl Street Station. Soon after it opened in Septemb
 # The Term Becomes Part of Electrical Engineering
 
 Articles about Edisons quadruplex discussed his bug trap by the late 1870's. By 1886, Edison's bug trap began to appear in articles about the quadruplex in elecrical journals. 
+
+In his 1889 *Dictionary of Electrical Words, Terms and Phrases*, Edwin Houston defined both bug and bug-trap:
+
+> Bug. A term originally limited to quadruplex telegraphy to designate any fault in the operation of the apparatus. This term is not employed, to a limited extent, for faults in the operation of electric apparatus in general.
+> Bug-Trap. Any device employed to overcome the "bug" in quadruplex telegraphy.
