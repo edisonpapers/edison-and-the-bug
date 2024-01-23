@@ -42,7 +42,7 @@ In the fall of 1878, his nephew Charles Edison, became the primary experimenter 
 
 # Edison's Definition of a Bug
 
-.ve-media https://edisondigital.rutgers.edu/iiif/2/LB003487/manifest right width=60% seq=4
+.ve-media https://edisondigital.rutgers.edu/iiif/2/LB003487/manifest right seq=4
 
 During 1878 Edison periodically referred to the problem of bugs in his correspondence about his work on telegraphs and telephones. But it was in a letter of 13 November 1878 about his work on electric lighting that Edison provided the best description of his use of bug to describe technical problem:
 
