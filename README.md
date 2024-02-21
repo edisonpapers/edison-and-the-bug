@@ -63,7 +63,7 @@ Problems also arose at the Pearl Street Station. Soon after it opened in Septemb
 
 # The Term Becomes Part of Electrical Engineering
 
-Articles about Edisons quadruplex discussed his bug trap by the late 1870's. In May 1877 James Ashley, the editor of the *Journal of the Telegraph*, a former partner in Edison, Pope & Co. who by 187 
+Articles about Edisons quadruplex discussed his bug trap by the late 1870's. The earliest use appears in an article by James Ashley, the editor of the *Journal of the Telegraph*. A former partner with Edison in the firm Pope, Edison & Co., Ashley had become a bitter foe of Edison by 1874 when he began calling the inventor 
 
 By 1886, Edison's bug trap began to appear in articles about the quadruplex in elecrical journals. 
 
