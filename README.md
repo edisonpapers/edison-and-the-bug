@@ -43,7 +43,7 @@ Edison's telephone receiver, which used his electromotograph, proved especially 
 
 # Edison Defines the Term "Bug"
 
-.ve-media https://edisondigital.rutgers.edu/iiif/2/LB003487/manifest right seq=4 width=60%
+.ve-media https://edisondigital.rutgers.edu/iiif/2/LB003487/manifest right seq=4 width=60% region=69,246,361,459 height=200px
 
 Soon after he began working on electric lighting, Edison wrote a letter (dated 13 November 1878) in which he provided the best description of his use of bug to describe technical problems:
 
