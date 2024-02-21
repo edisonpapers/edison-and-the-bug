@@ -10,6 +10,8 @@ Edison invented the quadruplex telegraph, which sent four messages, two in each 
 
 .ve-media https://edisondigital.rutgers.edu/iiif/nv10085 right width=60% seq=2
 
+Little of Edison's experimental work on the quadruplex appears in the extant notebook record. Only with the more complete record of his experiments from the Menlo Park Laboratory, which he began operating in April 1876 do we see the terms bug and bug trap. During the summer of 1876 Edison used it to describe problems in other telegraph systems for sending multiple messages and a new device he called the electromotograph that grew out of his work on recording devices for automatic telegraphs.
+
 Edison also used the term bug to describe problems with other telegraph systems. While working on his acoustic transfer telegraph Edison wrote:
 
 > Exhibit D shews same with Phila on= These shew where the mysterious bug was: the device for "Earthing" the wire on the low forks was a failure while that on the multiple is a success= Now this explains why all my rinkles failed
