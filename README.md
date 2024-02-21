@@ -6,17 +6,18 @@ Did you know that Edison invented the use of the term "bug" to refer to a techni
 
 .ve-media https://edisondigital.rutgers.edu/iiif/nv10085 right width=60% seq=2
 
-Edison invented the quadruplex telegraph, which sent four messages, two in each direction, over a single wire, in 1874. By September 1875, the quadruplex was being used extensively by Western Union. A key feature of the quadruplex was what Edison called a "bug trap." The earliest version of such a device can be found in Edison's patent caveat from early August 1873. The "bug trap" illustrates one of Edison's key inventive strategies. When he could not eliminate the cause of a problem, he sought an arrangement that rendered the effects insignificant.
-
-The next documented use comes in a a technical note by Edison dated 27 or 28 July 1876. The term also appears in other Edison notes from August and September 1876. 
-
-> Exhibit D shews same with Phila on= These shew where the mysterious bug was: the device for "Earthing" the wire on the low forks was a failure while that on the multiple is a success= Now this explains why all my rinkles failed
+Edison invented the quadruplex telegraph, which sent four messages, two in each direction, over a single wire, in 1874. By September 1875, the quadruplex was being used extensively by Western Union. A key feature of the quadruplex was what Edison called a "bug trap." 
 
 # Edison's "Bug Trap"
 
 .ve-media https://edisondigital.rutgers.edu/iiif/ns7704zaq right width=60% seq=3
 
-In a 10 May 1877 note Edison first used the term bug trap for devices designed to prevent current reversals in his quadruplex telegraph and other multiple telegraph designs.
+The earliest version of such a device can be found in Edison's patent caveat from early August 1873. In a 10 May 1877 note Edison first used the term bug trap for devices designed to prevent current reversals in his quadruplex telegraph and other multiple telegraph designs. The "bug trap" illustrates one of Edison's key inventive strategies. When he could not eliminate the cause of a problem, he sought an arrangement that rendered the effects insignificant.
+
+The next documented use comes in a a technical note by Edison dated 27 or 28 July 1876. The term also appears in other Edison notes from August and September 1876. 
+
+> Exhibit D shews same with Phila on= These shew where the mysterious bug was: the device for "Earthing" the wire on the low forks was a failure while that on the multiple is a success= Now this explains why all my rinkles failed
+
 
 # Telephone Bugs
 
