@@ -20,7 +20,7 @@ Edison also used the term bug to describe problems with other telegraph systems.
 
 > Exhibit D shews same with Phila on= These shew where the mysterious bug was: the device for "Earthing" the wire on the low forks was a failure while that on the multiple is a success= Now this explains why all my rinkles failed
 
-The next documented use comes in a a technical note by Edison dated 27 or 28 July 1876. The term also appears in other Edison notes from August and September 1876. 
+The term also appears in other Edison notes from August and September 1876. 
 
 # Telephone Bugs
 
