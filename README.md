@@ -53,7 +53,7 @@ In the fall of 1878, his nephew Charles Edison, became the primary experimenter 
 
 > NICOLE TO ADJUST ZOOM TO  and styling to full width for media image below
 
-.ve-media https://edisondigital.rutgers.edu/iiif/NV18091 height=200px static region=180,1,396,347
+.ve-media https://edisondigital.rutgers.edu/iiif/NV18091 height=200px region=180,1,396,347
 
 
 # Edison's Definition of a Bug
