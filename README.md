@@ -4,6 +4,18 @@
 
 Did you know that Edison invented the use of the term "bug" to refer to a technical problem? The earliest documented use for the term as a technical glitch is found in the Oxford English Dictionary, which quotes a letter to the editor in the 15 September 1875 issue of the journal *Operator*, "The biggest ‘bug’ yet has been discovered in the U.S. Hotel Electric Annunciator." However, the sentence begins, "'Bugs' on the 'quad' are all very well in their way, but..." What the OED did not understand was that this use of bug was first used by Edison in connection with his quadruplex telegraph.
 
+# The Term Becomes Part of Electrical Engineering
+
+Articles about Edisons quadruplex discussed his bug trap by the late 1870's. By 1886, Edison's bug trap began to appear in articles about the quadruplex in elecrical journals. 
+
+In his 1889 *Dictionary of Electrical Words, Terms and Phrases*, Edwin Houston defined both bug and bug-trap:
+
+> Bug. A term originally limited to quadruplex telegraphy to designate any fault in the operation of the apparatus. This term is not employed, to a limited extent, for faults in the operation of electric apparatus in general.
+
+> Bug-Trap. Any device employed to overcome the "bug" in quadruplex telegraphy.
+
+Then in his 1892 *Standard Electrical Dictionary*, Thomas O'Conor Sloane became the first one to describe "bug" as "any fault or trouble in the connections or working of electric apparatus" and "bug trap" as "a connection or arrangement for overcoming a 'bug.'" He also noted that these terms were said to originate in quadruplex telegraphy.
+
 .ve-media https://edisondigital.rutgers.edu/iiif/nv10085 right width=60% seq=2
 
 No other published references have been found from this period until....
@@ -61,15 +73,3 @@ Other bugs appeared when Edison's new elecrical system was exhibited in Paris an
 > The Belts are liable to slip so you want to look out that all your belts are tight as this is a bad bug when running the machines in multiple arc as if some of the belts are loose the other machines will do all the work and it will be like putting 100 lights on a machine.
 
 Problems also arose at the Pearl Street Station. Soon after it opened in September 1882, Edison had to redesign the coupling for his Jumbo dynamos so that the steam engines that ran them worked together. In his report to Charles Batchelor who was managing the Edison lighting business in Paris, Samuel Insull reported, "Now this bug has been eradicated it would appear that the central station machines will work perfectly." As Edison began installing new stations in 1883, bugs also appeared. Writing from the first of these new stations in Sunbury, PA, William Andrews wrote Edison about "a bug in the dynamo connections" and sent Edison a plan of a new way of connecting spare dynamo, asking him "Please look them over and see if you can find a bug in them."
-
-# The Term Becomes Part of Electrical Engineering
-
-Articles about Edisons quadruplex discussed his bug trap by the late 1870's. By 1886, Edison's bug trap began to appear in articles about the quadruplex in elecrical journals. 
-
-In his 1889 *Dictionary of Electrical Words, Terms and Phrases*, Edwin Houston defined both bug and bug-trap:
-
-> Bug. A term originally limited to quadruplex telegraphy to designate any fault in the operation of the apparatus. This term is not employed, to a limited extent, for faults in the operation of electric apparatus in general.
-
-> Bug-Trap. Any device employed to overcome the "bug" in quadruplex telegraphy.
-
-Then in his 1892 *Standard Electrical Dictionary*, Thomas O'Conor Sloane became the first one to describe "bug" as "any fault or trouble in the connections or working of electric apparatus" and "bug trap" as "a connection or arrangement for overcoming a 'bug.'" He also noted that these terms were said to originate in quadruplex telegraphy.
