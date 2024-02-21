@@ -45,7 +45,7 @@ Edison's telephone receiver, which used his electromotograph, proved especially 
 
 .ve-media https://edisondigital.rutgers.edu/iiif/2/LB003487/manifest right seq=4 width=60%
 
-In the fall of 1878, Edison began working on electric lighting and in a letter of 13 November 1878 about this work he provided the best description of his use of bug to describe technical problems:
+Soon after he began working on electric lighting, Edison wrote a letter (dated 13 November 1878) in which he provided the best description of his use of bug to describe technical problems:
 
 > It has been just so in all of my inventions. The first step is an intuition and comes in a burst— Then difficulties arise. This thing gives out then that. =="Bugs"=={263,343,91,115} as such little faults and difficulties are called, show themselves— Months of intense watching, study and labor are required before commercial success—or failure—is certainly reached.
 
