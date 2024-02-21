@@ -37,9 +37,7 @@ And writing to William Preece about his telephone on 19 May 1878 Edison noted, "
 
 .ve-media https://edisondigital.rutgers.edu/iiif/NV18015 right width=60% seq=2 height=300px fit=cover
 
-Edison's telephone receiver, which used his electromotograph, proved especially susceptible to bugs. 
-
-In the fall of 1878, his nephew Charles Edison, became the primary experimenter on the receiver and the first person in the laboratory other than Edison to use the term in a notebook entry. Exasperated by the failure of the device to work properly, he drew a "double breasted Bug" and wrote a number of humorous references to bugs. He also described one device to solve these problems as a "Boog Troup."
+Edison's telephone receiver, which used his electromotograph, proved especially susceptible to bugs. In the fall of 1878, his nephew Charles Edison, became the primary experimenter on the receiver and the first person in the laboratory other than Edison to use the term in a notebook entry. Exasperated by the failure of the device to work properly, he drew a "double breasted Bug" and wrote a number of humorous references to bugs. He also described one device to solve these problems as a "Boog Troup."
 
 .ve-media https://edisondigital.rutgers.edu/iiif/NV18091 height=200px region=-112,61,1017,174
 
