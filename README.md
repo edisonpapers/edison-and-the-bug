@@ -10,7 +10,7 @@ Edison invented the quadruplex telegraph, which sent four messages, two in each 
 
 .ve-media https://edisondigital.rutgers.edu/iiif/ns7704zaq right width=60% seq=3
 
-The earliest version of such a device can be found in Edison's patent caveat from early August 1873. By spring 1877 the term was being used to describe a key feature in the perfection of Edison's quadruplex during the litigation over ownership of the invention. It also began to be used by Edison in his notebooks for devices to improve the quadruplex and his experimental sextuplex system for sending six messages ("sexty" in the note). "Bug traps" represented one of Edison's key inventive strategies. When he could not eliminate the cause of a problem, he sought an arrangement that rendered the effects insignificant.
+The earliest version of such a device can be found in Edison's patent caveat from early August 1873. By spring 1877 the term was being used by Edison to describe a key feature in the perfection of his quadruplex during the litigation over ownership of the invention. He also began to use it in his notebooks for devices to improve the quadruplex and his experimental sextuplex system for sending six messages ("sexty" in the note). "Bug traps" represented one of Edison's key inventive strategies. When he could not eliminate the cause of a problem, he sought an arrangement that rendered the effects insignificant.
 
 # Describing Bugs 
 
@@ -66,7 +66,11 @@ Problems also arose at the Pearl Street Station. Soon after it opened in Septemb
 
 # The Term Becomes Part of Electrical Engineering
 
-Articles about Edisons quadruplex discussed his bug trap by the late 1870's. By 1886, Edison's bug trap began to appear in articles about the quadruplex in elecrical journals. 
+By spring 1877 Edison was using the term 
+
+Articles about Edisons quadruplex discussed his bug trap by the late 1870's. In May 1877 James Ashley, the editor of the *Journal of the Telegraph*, a former partner in Edison, Pope & Co. who by 187 
+
+By 1886, Edison's bug trap began to appear in articles about the quadruplex in elecrical journals. 
 
 In his 1889 *Dictionary of Electrical Words, Terms and Phrases*, Edwin Houston defined both bug and bug-trap:
 
