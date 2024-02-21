@@ -43,7 +43,6 @@ In the fall of 1878, his nephew Charles Edison, became the primary experimenter 
 
 .ve-media https://edisondigital.rutgers.edu/iiif/NV18091 height=200px region=-112,61,1017,174
 
-
 # Edison's Definition of a Bug
 
 .ve-media https://edisondigital.rutgers.edu/iiif/2/LB003487/manifest right seq=4 width=60%
