@@ -41,7 +41,7 @@ Edison's telephone receiver, which used his electromotograph, proved especially 
 
 .ve-media https://edisondigital.rutgers.edu/iiif/NV18091 height=200px region=-112,61,1017,174
 
-# Edison's Definition of a Bug
+# Edison Defines the Term "Bug"
 
 .ve-media https://edisondigital.rutgers.edu/iiif/2/LB003487/manifest right seq=4 width=60%
 
