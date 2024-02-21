@@ -16,8 +16,6 @@ For example, in a note on his acoustic transfer telegraph Edison wrote:
 
 > Exhibit D shews same with Phila on= These shew where the mysterious bug was: the device for "Earthing" the wire on the low forks was a failure while that on the multiple is a success= Now this explains why all my rinkles failed
 
-The term also appears in other Edison notes from August and September 1876. 
-
 # Edison's "Bug Trap"
 
 .ve-media https://edisondigital.rutgers.edu/iiif/ns7704zaq right width=60% seq=3
