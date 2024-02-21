@@ -4,8 +4,6 @@
 
 Did you know that Edison invented the use of the term "bug" to refer to a technical problem? The earliest documented use for the term as a technical glitch is found in the Oxford English Dictionary, which quotes a letter to the editor in the 15 September 1875 issue of the journal *Operator*, "The biggest ‘bug’ yet has been discovered in the U.S. Hotel Electric Annunciator." However, the sentence begins, "'Bugs' on the 'quad' are all very well in their way, but..." What the OED did not understand was that this use of bug was first used by Edison in connection with his quadruplex telegraph.
 
-# HEADING?
-
 .ve-media https://edisondigital.rutgers.edu/iiif/nv10085 right width=60% seq=2
 
 The next documented use comes in a a technical note by Edison dated 27 or 28 July 1876. The term also appears in other Edison notes from August and September 1876.
