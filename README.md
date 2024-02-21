@@ -71,4 +71,4 @@ By the mid-1880s, Edison's bug trap appeared in books and articles about the qua
 
 > Bug-Trap. Any device employed to overcome the "bug" in quadruplex telegraphy.
 
-Then in his 1892 *Standard Electrical Dictionary*, Thomas O'Conor Sloane became the first one to describe "bug" as "any fault or trouble in the connections or working of electric apparatus" and "bug trap" as "a connection or arrangement for overcoming a 'bug.'" He also noted that these terms were said to originate in quadruplex telegraphy.
+Then in his 1892 *Standard Electrical Dictionary*, Thomas O'Conor Sloane became the first one to describe "bug" as "any fault or trouble in the connections or working of electric apparatus" and "bug trap" as "a connection or arrangement for overcoming a 'bug.'" But he too noted that these terms were said to originate in quadruplex telegraphy.
