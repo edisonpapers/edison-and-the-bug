@@ -16,6 +16,8 @@ In his 1889 *Dictionary of Electrical Words, Terms and Phrases*, Edwin Houston d
 
 Then in his 1892 *Standard Electrical Dictionary*, Thomas O'Conor Sloane became the first one to describe "bug" as "any fault or trouble in the connections or working of electric apparatus" and "bug trap" as "a connection or arrangement for overcoming a 'bug.'" He also noted that these terms were said to originate in quadruplex telegraphy.
 
+# HEADING
+
 .ve-media https://edisondigital.rutgers.edu/iiif/nv10085 right width=60% seq=2
 
 No other published references have been found from this period until....
