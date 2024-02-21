@@ -6,12 +6,6 @@ Did you know that Edison invented the use of the term "bug" to refer to a techni
 
 Edison invented the quadruplex telegraph, which sent four messages, two in each direction, over a single wire, in 1874. By September 1875, the quadruplex was being used extensively by Western Union. A key feature of the quadruplex was what Edison called a "bug trap." 
 
-# Edison's "Bug Trap"
-
-.ve-media https://edisondigital.rutgers.edu/iiif/ns7704zaq right width=60% seq=3
-
-The earliest version of such a device can be found in Edison's patent caveat from early August 1873. By spring 1877 the term was being used by Edison to describe a key feature in the perfection of his quadruplex during the litigation over ownership of the invention. He also began to use it in his notebooks for devices to improve the quadruplex and his experimental sextuplex system for sending six messages ("sexty" in the note). "Bug traps" represented one of Edison's key inventive strategies. When he could not eliminate the cause of a problem, he sought an arrangement that rendered the effects insignificant.
-
 # Describing Bugs 
 
 .ve-media https://edisondigital.rutgers.edu/iiif/nv10085 right width=60% seq=2
@@ -21,6 +15,12 @@ Edison also used the term bug to describe problems with other telegraph systems.
 > Exhibit D shews same with Phila on= These shew where the mysterious bug was: the device for "Earthing" the wire on the low forks was a failure while that on the multiple is a success= Now this explains why all my rinkles failed
 
 The term also appears in other Edison notes from August and September 1876. 
+
+# Edison's "Bug Trap"
+
+.ve-media https://edisondigital.rutgers.edu/iiif/ns7704zaq right width=60% seq=3
+
+The earliest version of such a device can be found in Edison's patent caveat from early August 1873. By spring 1877 the term was being used by Edison to describe a key feature in the perfection of his quadruplex during the litigation over ownership of the invention. He also began to use it in his notebooks for devices to improve the quadruplex and his experimental sextuplex system for sending six messages ("sexty" in the note). "Bug traps" represented one of Edison's key inventive strategies. When he could not eliminate the cause of a problem, he sought an arrangement that rendered the effects insignificant.
 
 # Telephone Bugs
 
