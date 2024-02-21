@@ -16,7 +16,7 @@ The earliest version of such a device can be found in Edison's patent caveat fro
 
 .ve-media https://edisondigital.rutgers.edu/iiif/nv10085 right width=60% seq=2
 
-Edison also used the term bug to describe problems with other telegraph systems. While working on his acoustic transfer telegraph Edison wrote
+Edison also used the term bug to describe problems with other telegraph systems. While working on his acoustic transfer telegraph Edison wrote:
 
 > Exhibit D shews same with Phila on= These shew where the mysterious bug was: the device for "Earthing" the wire on the low forks was a failure while that on the multiple is a success= Now this explains why all my rinkles failed
 
