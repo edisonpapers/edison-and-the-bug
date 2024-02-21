@@ -53,17 +53,17 @@ Soon after he began working on electric lighting, Edison wrote a letter (dated 1
 
 Some of Edison’s associates began to adopt the term in connection with his work on electric lighting. In a 3 November 1878 letter to Edison, his friend George Barker, a professor at the University of Pennsylvania, complained about Edison’s delay in providing him with one of his new lamps for a lecture, asking Edison, "Have you found a 'bug' in the light, which is the reason why you don’t want me to show it?"
 
-.ve-media https://edisondigital.rutgers.edu/iiif/2/d8123zaz/manifest right seq=4 width=50% region=38,33,480,545
+.ve-media https://edisondigital.rutgers.edu/iiif/2/d8123zaz/manifest right seq=4 width=60% region=38,33,480,545
 
 Commercial lamp production, which began in the fall of 1880, was particularly susceptible to bugs. In April 1881, Francis Upton wrote from the lamp factory, "scarcely a day passes without a new 'bug' showing itself." Problems at the lamp factory sometimes required Edison's attention. For example, in February 1882 Edison's secretary Samuel Insull reported that he had been at the factory "a great deal of late & told me a few minutes ago that he thinks he has struck the radical bug in the lamp." In Paris, where Charles Batchelor had established a European lamp factory, bugs also appeared. For example, in July 1882 he told Edison, "I have struck a 'bug' which I am sure is in the glass." Charles Clarke, chief engineer of Edison Electric, warned Edison of a "big bug in Bergmann's brass mounted sockets" that was creating a short circuit. 
 
-.ve-media https://edisondigital.rutgers.edu/iiif/2/d8133zam/manifest left width=50%
+.ve-media https://edisondigital.rutgers.edu/iiif/2/d8133zam/manifest left width=60%
 
 Other bugs appeared when Edison's new elecrical system was exhibited in Paris and London. In November 1881, when Edward Johnson was setting up Edison's exhibit at the Crystal Palace Exhibition in London, he planned to improve on the record of Edison's earlier exhibit at the Paris Electrical Exhibition explaining that, "The one thing which Paris failed most conspicuously in was 'Reliability' I am therefore 'going for' that 'Bug' more particularly than any other—though there are others almost as important". In response to Johnson's letter, Edison advised him that:
 
 > The Belts are liable to slip so you want to look out that all your belts are tight as this is a bad bug when running the machines in multiple arc as if some of the belts are loose the other machines will do all the work and it will be like putting 100 lights on a machine.
 
-.ve-media https://edisondigital.rutgers.edu/iiif/2/d8243i/manifest seq=5 right width=80%
+.ve-media https://edisondigital.rutgers.edu/iiif/2/d8243i/manifest seq=5 right width=60%
 
 Problems also arose at the Pearl Street Station. Soon after it opened in September 1882, Edison had to redesign the coupling for his Jumbo dynamos so that the steam engines that ran them worked together. In his report to Charles Batchelor who was managing the Edison lighting business in Paris, Samuel Insull reported, "Now this bug has been eradicated it would appear that the central station machines will work perfectly." As Edison began installing new stations in 1883, bugs also appeared. Writing from the first of these new stations in Sunbury, PA, William Andrews wrote Edison about "a bug in the dynamo connections" and sent Edison a plan of a new way of connecting spare dynamo, asking him "Please look them over and see if you can find a bug in them."
 
