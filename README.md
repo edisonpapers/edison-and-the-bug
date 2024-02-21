@@ -20,7 +20,7 @@ For example, in a note on his acoustic transfer telegraph Edison wrote:
 
 .ve-media https://edisondigital.rutgers.edu/iiif/ns7704zaq right width=60% seq=3
 
-The earliest version of a bug trap (not yet named) can be found in Edison's patent caveat from early August 1873. The term first appears in testimony by Edison in April 1877 during litigation over ownership of his quadruplex. About the same time he began to use it in notebooks describing devices to improve the quadruplex and his experimental sextuplex system for sending six messages ("sexty" in the note). "Bug traps" represented one of Edison's key inventive strategies. When he could not eliminate the cause of a problem, he sought an arrangement that rendered the effects insignificant.
+The earliest version of a bug trap (not yet named) can be found in Edison's patent caveat from early August 1873. The term first appears in testimony by Edison in April 1877 during litigation over ownership of his quadruplex. About the same time he began to use it in notebooks describing devices for the quadruplex and for his experimental sextuplex system for sending six messages ("sexty" in the note). "Bug traps" represented one of Edison's key inventive strategies. When he could not eliminate the cause of a problem, he sought an arrangement that rendered the effects insignificant.
 
 # Telephone Bugs
 
