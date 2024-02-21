@@ -51,7 +51,7 @@ Edison's telephone receiver proved especially susceptible to bugs. As with his q
 
 In the fall of 1878, his nephew Charles Edison, became the primary experimenter on the receiver and the first person in the laboratory other than Edison to use the term in a notebook entry. Exasperated by the failure of the device to work properly, he drew a "double breasted Bug" and wrote a number of humorous references to bugs.
 
-.ve-media https://edisondigital.rutgers.edu/iiif/NV18091 height=200px region=-110,2,1014,174
+.ve-media https://edisondigital.rutgers.edu/iiif/NV18091 height=200px region=-112,61,1017,174
 
 
 # Edison's Definition of a Bug
