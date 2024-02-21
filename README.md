@@ -10,7 +10,7 @@ Edison invented the quadruplex telegraph, which sent four messages, two in each 
 
 .ve-media https://edisondigital.rutgers.edu/iiif/ns7704zaq right width=60% seq=3
 
-The earliest version of such a device can be found in Edison's patent caveat from early August 1873. By spring 1877 the term was being used to describe a key feature in the perfection of Edison's quadruplex during the litigation over ownership of the invention. Although the earliest use of the term bug trap in Edison's notebooks does not appear until 10 May 1877 where he uses it for devices designed to prevent current reversals in his quadruplex telegraph and in a new design for sending six messages he called the sextuplex ("sexty" in the note). The "bug trap" illustrates one of Edison's key inventive strategies. When he could not eliminate the cause of a problem, he sought an arrangement that rendered the effects insignificant.
+The earliest version of such a device can be found in Edison's patent caveat from early August 1873. By spring 1877 the term was being used to describe a key feature in the perfection of Edison's quadruplex during the litigation over ownership of the invention. It also began to be used by Edison in his notebooks for devices to improve the quadruplex and his experimental sextuplex system for sending six messages ("sexty" in the note). "Bug traps" represented one of Edison's key inventive strategies. When he could not eliminate the cause of a problem, he sought an arrangement that rendered the effects insignificant.
 
 # HEADING? 
 
