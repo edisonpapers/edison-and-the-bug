@@ -10,7 +10,9 @@ Edison invented the quadruplex telegraph, which sent four messages, two in each 
 
 .ve-media https://edisondigital.rutgers.edu/iiif/ns7704zaq right width=60% seq=3
 
-The earliest version of such a device can be found in Edison's patent caveat from early August 1873. In a 10 May 1877 note Edison first used the term bug trap for devices designed to prevent current reversals in his quadruplex telegraph and other multiple telegraph designs. The "bug trap" illustrates one of Edison's key inventive strategies. When he could not eliminate the cause of a problem, he sought an arrangement that rendered the effects insignificant.
+The earliest version of such a device can be found in Edison's patent caveat from early August 1873. Although the earliest use of the term bug trap in Edison's notebooks does not appear until 10 May 1877 where he uses it for devices designed to prevent current reversals in his quadruplex telegraph and other multiple telegraph designs. The "bug trap" illustrates one of Edison's key inventive strategies. When he could not eliminate the cause of a problem, he sought an arrangement that rendered the effects insignificant.
+
+
 
 # HEADING? 
 
