@@ -71,6 +71,8 @@ Problems also arose at the Pearl Street Station. Soon after it opened in Septemb
 
 Articles about Edisons quadruplex discussed his bug trap by the late 1870's. The earliest use appears in an article by James Ashley, the editor of the *Journal of the Telegraph*. A former partner with Edison in the firm Pope, Edison & Co., Ashley had become a bitter foe of Edison by 1874 when he began calling the inventor "the professor of duplicity and quadruplicity." In his May 1877 article on "Electrical Telegraphic Inventions and Inventors", Ashley noted that "'bugs' are usually numerous in new inventions....This has been demonstrated very forcibly in adapting to practical operation the duplex and quadruplex inventions. The 'bugs' which have been discovered and eliminated would make a large (metaphorical) entomological collection."
 
+.ve-media https://edisondigital.rutgers.edu/iiif/2/PAT274112/manifest right width=60%
+
 By the mid-1880s, Edison's bug trap appeared in books and articles about the quadruplex and another inventor even patented an improvement on "bug-traps" for telegraph receivers. By the end of the decade, Edwin Houston defined both bugs and bug-traps in his 1889 *Dictionary of Electrical Words, Terms and Phrases*:
 
 > Bug. A term originally limited to quadruplex telegraphy to designate any fault in the operation of the apparatus. This term is not employed, to a limited extent, for faults in the operation of electric apparatus in general.
