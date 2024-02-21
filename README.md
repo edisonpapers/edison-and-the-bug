@@ -6,7 +6,9 @@ Did you know that Edison invented the use of the term "bug" to refer to a techni
 
 .ve-media https://edisondigital.rutgers.edu/iiif/nv10085 right width=60% seq=2
 
-Edison invented the quadruplex telegraph, which sent four messages, two in each direction, over a single wire, in 1874. By September 1875, the quadruplex was being used extensively by Western Union. The next documented use comes in a a technical note by Edison dated 27 or 28 July 1876. The term also appears in other Edison notes from August and September 1876.
+Edison invented the quadruplex telegraph, which sent four messages, two in each direction, over a single wire, in 1874. By September 1875, the quadruplex was being used extensively by Western Union. A key feature of the quadruplex was what Edison called a "bug trap." 
+
+The next documented use comes in a a technical note by Edison dated 27 or 28 July 1876. The term also appears in other Edison notes from August and September 1876.
 
 > Exhibit D shews same with Phila on= These shew where the mysterious bug was: the device for "Earthing" the wire on the low forks was a failure while that on the multiple is a success= Now this explains why all my rinkles failed
 
