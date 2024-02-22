@@ -1,4 +1,4 @@
-.ve-header "Edison and the Term 'Bug'" https://edisondigital.rutgers.edu/iiif/NV18091 region=-112,61,1017,174 "A Digital Essay" center sticky
+.ve-header "Edison and the Term 'Bug'" https://edisondigital.rutgers.edu/iiif/NV18091 "A Digital Essay" region=-112,61,1017,174 center sticky
 
 # Earliest Use of the Term "Bug"
 
