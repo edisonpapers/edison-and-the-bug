@@ -1,4 +1,4 @@
-.ve-header "Edison and the Term 'Bug'" https://edisondigital.rutgers.edu/iiif/NV18091 "A Digital Essay" pct:90,90,80,80  sticky
+.ve-header "Edison and the Term 'Bug'" https://edisondigital.rutgers.edu/iiif/NV18091 "A Digital Essay" pct:90,90,90,80  sticky
 
 # Earliest Use of the Term "Bug"
 
