@@ -1,4 +1,4 @@
-.ve-header "Edison and the Term 'Bug'" default:https%3A//edison.rutgers.edu/images/sci-fi/sci-fi-wizard03.jpeg "A Digital Essay" pct:3,23,80,20 center sticky
+.ve-header "Edison and the Term 'Bug'" https://edisondigital.rutgers.edu/iiif/NV18091 "A Digital Essay" region=-112,61,1017,174 center sticky
 
 # Earliest Use of the Term "Bug"
 
@@ -10,7 +10,7 @@ Edison invented the quadruplex telegraph, which sent four messages, two in each 
 
 .ve-media https://edisondigital.rutgers.edu/iiif/nv10085 right width=60% seq=2
 
-Little of Edison's experimental work on the quadruplex appears in the extant notebook record. Only with the more complete record of his experiments from the Menlo Park Laboratory, which he began operating in April 1876 do we see the terms bug and bug trap. During the summer of 1876 Edison uses bug to describe problems in other telegraph systems for sending multiple messages and a new device he called the electromotograph that grew out of his work on recording devices for automatic telegraphs.
+Little of Edison's experimental work on the quadruplex appears in the extant notebook record. Only with the more complete record of his experiments from the Menlo Park Laboratory, which he began operating in April 1876, do we see him using the terms bug and bug trap. During the summer of 1876 Edison uses bug to describe problems in other telegraph systems for sending multiple messages and a new device he called the electromotograph that grew out of his work on recording devices for automatic telegraphs.
 
 For example, in a note on his acoustic transfer telegraph Edison wrote:
 
@@ -26,7 +26,7 @@ The earliest version of a bug trap (not yet named) can be found in Edison's pate
 
 .ve-media https://edisondigital.rutgers.edu/iiif/x099at right width=60%
 
-The following year Edison began using bug to describe technical problems with his telephone experiments. In a 13 March 1878 letter to Western Union President William Orton Edison wrote:
+The following year Edison began using "bug" to describe technical problems with his telephone experiments. In a 13 March 1878 letter to Western Union President William Orton Edison wrote:
 
 > You were partly correct, I did find a "bug" in my apparatus, but it was not in the telephone proper It was of the genus "callbellum" The insect appears to find conditions for its existence in all call apparatus of Telephones.
 >
@@ -37,7 +37,7 @@ And writing to William Preece about his telephone on 19 May 1878 Edison noted, "
 
 .ve-media https://edisondigital.rutgers.edu/iiif/NV18015 right width=60% seq=2 height=300px fit=cover
 
-Edison's telephone receiver, which used his electromotograph, proved especially susceptible to bugs. In the fall of 1878, his nephew Charles Edison, became the primary experimenter on the receiver and the first person in the laboratory other than Edison to use the term in a notebook entry. Exasperated by the failure of the device to work properly, he drew a "double breasted Bug" and wrote a number of humorous references to bugs. He also described one device to solve these problems as a "Boog Troup." 
+In the fall of 1878, his nephew Charles Edison became the primary experimenter on the receiver and the first person in the laboratory other than Edison to use the term in a notebook entry. Exasperated by the failure of the device to work properly, he drew a "double breasted Bug" and wrote a number of humorous references to bugs. He also described one device to solve these problems as a "Boog Troup." 
 
 .ve-media https://edisondigital.rutgers.edu/iiif/NV18091 height=200px region=-112,61,1017,174
 
@@ -59,7 +59,7 @@ Commercial lamp production, which began in the fall of 1880, was particularly su
 
 .ve-media https://edisondigital.rutgers.edu/iiif/2/d8133zam/manifest left width=80% height=200px region=-7,28,703,308
 
-Other bugs appeared when Edison's new elecrical system was exhibited in Paris and London. In November 1881, when Edward Johnson was setting up Edison's exhibit at the Crystal Palace Exhibition in London, he planned to improve on the record of Edison's earlier exhibit at the Paris Electrical Exhibition explaining that, "The one thing which Paris failed most conspicuously in was 'Reliability' I am therefore 'going for' that 'Bug' more particularly than any other—though there are others almost as important". In response to Johnson's letter, Edison advised him that:
+Other bugs appeared when Edison's new elecrical system was exhibited in Paris and London. In November 1881, when Edward Johnson was setting up Edison's exhibit at the Crystal Palace Exhibition in London, he planned to improve on the record of Edison's earlier exhibit at the Paris Electrical Exhibition explaining that, "The one thing which Paris failed most conspicuously in was 'Reliability' I am therefore 'going for' that 'Bug' more particularly than any other—though there are others almost as important." In response to Johnson's letter, Edison advised him that:
 
 > The Belts are liable to slip so you want to look out that all your belts are tight as this is a bad bug when running the machines in multiple arc as if some of the belts are loose the other machines will do all the work and it will be like putting 100 lights on a machine.
 
@@ -69,11 +69,13 @@ Problems also arose at the Pearl Street Station. Soon after it opened in Septemb
 
 # The Term Becomes Part of Electrical Engineering
 
-Articles about Edisons quadruplex discussed his bug trap by the late 1870's. The earliest use appears in an article by James Ashley, the editor of the *Journal of the Telegraph*. A former partner with Edison in the firm Pope, Edison & Co., Ashley had become a bitter foe of Edison by 1874 when he began calling the inventor "the professor of duplicity and quadruplicity." In his May 1877 article on "Electrical Telegraphic Inventions and Inventors", Ashley noted that "'bugs' are usually numerous in new inventions....This has been demonstrated very forcibly in adapting to practical operation the duplex and quadruplex inventions. The 'bugs' which have been discovered and eliminated would make a large (metaphorical) entomological collection."
+The earliest use of the term "bug" appears in an article by James Ashley, the editor of the *Journal of the Telegraph*. A former partner with Edison in the firm Pope, Edison & Co., Ashley had become a bitter foe of Edison by 1874 when he began calling the inventor "the professor of duplicity and quadruplicity." In his May 1877 article on "Electrical Telegraphic Inventions and Inventors," Ashley noted that "'bugs' are usually numerous in new inventions....This has been demonstrated very forcibly in adapting to practical operation the duplex and quadruplex inventions. The 'bugs' which have been discovered and eliminated would make a large (metaphorical) entomological collection."
 
 .ve-media https://edisondigital.rutgers.edu/iiif/2/PAT274112/manifest right seq=3 width=60% region=165,1808,967,1421
 
-By the mid-1880s, Edison's bug trap appeared in books and articles about the quadruplex and another inventor even patented an improvement on "bug-traps" for telegraph receivers. By the end of the decade, Edwin Houston defined both bugs and bug-traps in his 1889 *Dictionary of Electrical Words, Terms and Phrases*:
+By the mid-1880s, Edison's bug trap appeared in books and articles about the quadruplex and another inventor even patented an improvement on "bug-traps" for telegraph receiving instruments. 
+
+At the end of the decade, Edwin Houston defined both bugs and bug-traps in his 1889 *Dictionary of Electrical Words, Terms and Phrases*:
 
 > Bug. A term originally limited to quadruplex telegraphy to designate any fault in the operation of the apparatus. This term is not employed, to a limited extent, for faults in the operation of electric apparatus in general.
 
