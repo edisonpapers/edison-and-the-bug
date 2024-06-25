@@ -51,7 +51,7 @@ Soon after he began working on electric lighting, Edison wrote a letter (dated 1
 
 # The Term Spreads
 
-Some of Edison’s associates began to adopt the term in connection with his work on electric lighting. In a 3 November 1878 letter to Edison, his friend George Barker, a professor at the University of Pennsylvania, complained about Edison’s delay in providing him with one of his new lamps for a lecture, asking Edison, "Have you found a 'bug' in the light, which is the reason why you don’t want me to show it?"
+Some of Edison’s associates began to adopt the term in connection with his work on electric lighting. In a 3 November 1878 letter to Edison, his friend George Barker, a professor at the University of Pennsylvania, complained about Edison’s delay in providing him with one of his new lamps for a lecture, asking Edison, "Have you found a 'bug' in the light, which is the reason why you don’t want me to show it?" Another visitor to the laboratory, Addison Burk, in commenting on a paper about the Edison light delivered at the 21 January 1880 meeting of the Franklin Institute, stated "Mr. Edison calls all difficulties 'bugs.'" 
 
 .ve-media https://edisondigital.rutgers.edu/iiif/2/d8123zaz/manifest right seq=4 width=80% region=12,247,623,273 height=200px
 
